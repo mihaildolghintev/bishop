@@ -1,0 +1,12 @@
+{
+	"name": "bishop",
+	"dependencies": {
+		"firebase": "^8.2.7",
+		"fomantic-ui-css": "^2.8.7",
+		"react": "16.13.0",
+		"react-dom": "16.13.0"
+	},
+	"devDependencies": {
+		"shadow-cljs": "2.11.7"
+	}
+}
